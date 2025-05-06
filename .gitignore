@@ -1,0 +1,34 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# React Native
+ios/build/
+android/app/build/
+android/build/
+android/.gradle/
+*.jks
+*.keystore
+*.p12
+*.cer
+
+# macOS
+.DS_Store
+
+# Editor specific
+.vscode/
+.idea/
+
+# Build artifacts
+*.ipa
+*.apk
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
